@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhil Baikar  
 
-🎮 **Game Developer | Unity & Unreal | AR/VR • Multiplayer • Cross-Platform**  
+🎮 **Game Developer | AR • VR • Cross-Platform**  
 
 I’m passionate about creating immersive, cross-platform gaming experiences.  
 With hands-on experience in **Unity** and growing expertise in **Unreal Engine**,  
@@ -49,8 +49,7 @@ I’ve built and shipped games across **mobile, VR, console, and Web3 platforms*
 Here are the games I’ve contributed to and helped deploy across platforms:  
 - **Epiko Regal** → Android, iOS, Solana Blockchain, JioGames (India)  
 - **Epiko Valley VR** → Meta Quest (VR)  
-- **Epiko World: Legends Showdown** → PlayStation, Steam, Epic Games Store  
-- **Epiko Smash** → Android, iOS  
+- **Epiko World: Legends Showdown** → Steam(Playtest)
 - **2048** → Web (itch.io)  
 - **Endless-2D** → Web (itch.io)  
 - **Evil Rush** → Web (itch.io)  
